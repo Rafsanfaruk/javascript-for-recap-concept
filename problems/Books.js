@@ -39,3 +39,5 @@ const books = [
 const myBooks = books.filter(b => b.rating >=4.0 && b.inStock === true)
 console.log(myBooks)
 
+
+
